@@ -1,0 +1,22 @@
+{
+	"projectName": "shamsicalendar",
+	"licenseText": "proprietary",
+	"pkgs": [{
+		"name": "shamsicalendar CSS",
+		"file": "shamsicalendar.css",
+		"isDebug": true,
+		"fileIncludes": [{
+			"text": "custom.css",
+			"path": "themes/"
+		}]
+	}, {
+		"name": "shamsicalendar JS",
+		"file": "shamsicalendar.js",
+		"isDebug": true,
+		"fileIncludes": [{
+			"text": "custom.js",
+			"path": "themes/"
+		}]
+	}],
+	"resources" : []
+}
